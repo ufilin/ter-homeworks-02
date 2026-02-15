@@ -40,7 +40,20 @@ homework
 
   
 ##Задание 4
+>>Результат:  
+  
+<p align="center">
+  <img src="ter_home_task4-output.png" width="800">
+</p>
+  
 ##Задание 5
+  
+>>Результат  
+  
+<p align="center">
+  <img src="ter_home_task5-rename.png" width="800">
+</p>
+  
 ##Задание 6
 ##Задание 7
 ##Задание 8
